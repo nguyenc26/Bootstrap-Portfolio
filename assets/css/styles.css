@@ -44,6 +44,9 @@ h1{
     background-color: #666666;
     text-align: center;
     border-top: 8px solid #4aaaa5;
+    position:fixed;
+    bottom:0px;
+    width: 1110px;
 }
 
 .card-link{
